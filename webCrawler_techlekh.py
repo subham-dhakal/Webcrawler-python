@@ -1,3 +1,4 @@
+# Crawls the tech site to get latest tech news
 import requests
 from bs4 import BeautifulSoup
 
